@@ -3,7 +3,7 @@
 [![Install](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/install.yml)
 [![Format](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/format.yml)
 [![Lint](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/test.yml)
+[![Test](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml/badge.svg)](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml)
 
 [link for the video](https://youtu.be/XVYJ4UrZ2dM)
 ## Overview
