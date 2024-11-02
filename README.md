@@ -1,13 +1,18 @@
 # AfagR_Individual_Project1
 
-[![Install](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/install.yml)
-[![Format](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/format.yml)
-[![Lint](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_DE_assignment2_pandas/actions/workflows/lint.yml)
+[![Install](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml)
 [![Test](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml/badge.svg)](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml)
 
 [link for the video](https://youtu.be/XVYJ4UrZ2dM)
+
 ## Overview
-This project is a Python-based assignment that uses **pandas** for data analysis and processing. The repository contains a Python script that performs descriptive statistics, visualizations, and data summarization using a dataset of cars.
+This project is a Python-based assignment that uses **pandas** for data analysis and processing, Jupyter notebook is hosted in Google Colab. The repository contains a Python script that performs descriptive statistics, visualizations, and data summarization using a dataset of cars.
+
+
+[Google colab link](https://colab.research.google.com/github/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/blob/main/main.ipynb)
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -21,8 +26,8 @@ This project is a Python-based assignment that uses **pandas** for data analysis
 
 ### 1. Clone the repository
 
-git clone https://github.com/nogibjj/AfagR_DE_assignment2_pandas.git
-cd AfagR_DE_assignment2_pandas
+git clone https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook.git
+cd AfagR_Cloud-Hosted-Notebook
 
 ## Usage 
 2. **Create a Virtual Environment**
