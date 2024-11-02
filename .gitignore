@@ -31,7 +31,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-/Users/ramazanovaaa/Documents/files/Duke/IDS706 Data Engineering Systems/AfagR_Cloud-Hosted-Notebook/analysis.ipynb
+analysis.ipynb
 
 # Installer logs
 pip-log.txt
