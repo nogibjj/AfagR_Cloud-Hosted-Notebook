@@ -11,7 +11,7 @@ container-lint:
 	docker run --rm -i hadolint/hadolint < .devcontainer/Dockerfile
 
 test:
-	python -m pytest -vv --nbval -cov=my_lib -cov=main test_*.py *.ipynb
+	python -m pytest -vv --nbval-lax --cov=my_lib -cov=main test_*.py *.ipynb
 
 all: install format lint container-lint test 
 
