@@ -5,11 +5,14 @@
 [![Lint](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/AfagR_Cloud-Hosted-Notebook/actions/workflows/lint.yml)
 [![Test](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml/badge.svg)](https://github.com/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/actions/workflows/test.yml)
 
-[link for the video](https://youtu.be/XVYJ4UrZ2dM)
+
 
 ## Overview
 This project is a Python-based assignment that uses **pandas** for data analysis and processing, Jupyter notebook is hosted in Google Colab. The repository contains a Python script that performs descriptive statistics, visualizations, and data summarization using a dataset of cars.
 
+## Purpose of the project:
+- Set up a cloud-hosted Jupyter Notebook using Google Colab
+- Perform data manipulation tasks on a sample dataset
 
 [Google colab link](https://colab.research.google.com/github/Afag-Ramazanova/Cloud-Hosted-Notebook-Data-Manipulation/blob/main/main.ipynb)
 
